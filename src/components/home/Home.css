@@ -1,0 +1,31 @@
+
+.tarro-amarillo, .tarro-azul, .tarro-negro{    
+    text-align: center;
+    padding: 40px 10px 40px 10px;
+    margin: 10px 10px 40px 10px;
+    transition: all .3s ease-in-out;
+}
+
+.tarro-amarillo:hover, .tarro-azul:hover, .tarro-negro:hover{
+    transform: scale(1.02);
+}
+
+
+.tarro-amarillo, .tarro-azul, .tarro-negro{
+    width: 95%;
+}
+
+@media (max-width: 768px) {
+    /* Estos estilos solo se aplicarán hasta el tamaño indicado */
+    .col-12 .tarro-amarillo img, .col-12 .tarro-azul img, .col-12 .tarro-negro img{
+        text-align: center;
+        width: 75%;
+    }
+
+    .tarro-amarillo:active, .tarro-azul:active, .tarro-negro:active{
+        transform: scale(1.02);
+    }
+    
+
+
+}

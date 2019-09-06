@@ -1,33 +1,130 @@
-.App {
+
+body {
+  background-color: #DDD;
+  transition: all 1s ease-out;
+  background-image: url('./imgs/sello.png');
+  background-position: top center;
+  background-size: 1200px 1004px;
+  background-repeat: no-repeat;
+}
+
+.row{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.body-blue{
+  background-color: #0064AA;
+  transition: all 1s ease-out;
+}
+
+.body-yellow{
+  background-color: #FFA300;
+  transition: all 1s ease-out;
+}
+
+.body-black{
+  background-color: #222222;
+  transition: all 1s ease-out;
+}
+
+.footer{
+  border-top: #CCCCCC 1px solid;
   text-align: center;
+  font-size: 15px;
+  font-weight: lighter;
+  margin-top: 20px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  padding-left:10px;
+  padding-right:10px;
+  color: #FFFFFF;
+  background: linear-gradient(to top, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0) 100%);
+
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+h1{
+  text-align: center;
+  color: #FFFFFF;
+  margin-top: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.iconos{
+  border-radius: 3px;
+  background-color:#FFF;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  margin-top: 30px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-flow: row wrap;
+  align-items: stretch;
+  justify-content: space-around;  
+
 }
 
-.App-link {
-  color: #61dafb;
+.iconos img{
+
+  max-width:30%;
+  margin:10px;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.descripcion{
+  border-radius: 3px;
+  padding: 0px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.sino h2{
+  border-radius: 3px;
+}
+
+.sino ul{
+  margin:0px;
+  padding: 10px;
+}
+
+.sino ul li{
+  line-height: 1.6em;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  list-style-position: outside;
+}
+
+
+.imagePromotores{
+  width:80%;
+  margin:auto;
+  display:block;
+
+}
+
+.imagePromotores img{
+  width:100%;
+}
+
+.presentacion{
+  border: #28a745 1px solid; 
+  border-radius: 10px;
+  padding: 20px;
+  color: #28a745;
+  width: 100%;
+  font-size: 1.3em;  
+  line-height: 1.6em;
+  margin: 40px 0 40px 0;
+}
+
+.presentacion:hover{
+  background-color: rgba(0,0,0,0.05);
+}
+
+
+.link-descarga{color: #28a745;}
+
+.link-descarga:hover{color: #218838;text-decoration: none}
+
+.texto-proyecto{
+  text-align: justify;
 }

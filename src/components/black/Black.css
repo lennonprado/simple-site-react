@@ -1,0 +1,38 @@
+.black-general{
+    color:#FFF;
+}
+.black-general h2{
+    text-align:center;
+    margin: 0px;
+    background-color: #FFF;
+    color:#222222;
+    margin: 10px;
+}
+.orange{
+    color: #FF9900;
+}
+
+.orange-general{
+    color:#FFF;
+    background-color: #FF9900;
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 0px;
+    border-radius: 5px;
+  
+}
+.orange-general h2{
+    text-align:center;
+    margin: 10px;
+    background-color: #FFF;
+    color:#FF9900;
+}
+
+.orange-general .iconos{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%;
+   
+    
+}

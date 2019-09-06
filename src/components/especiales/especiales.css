@@ -1,0 +1,27 @@
+.otros-residuos{
+    margin-top: 10px;
+    
+}
+
+.otros-residuos h2{
+    font-size: 30px;
+    margin-top: 40px;
+    display: block;
+    width: 100%;
+}
+
+.otros-residuos p{
+    font-size: 85%;
+    text-align: justify;
+    color: #333;
+}
+.otros-residuos .bloque-lectura{
+    transition: all .2s ease-in-out;
+    padding: 20px;
+    border-radius: 5px;
+}
+.otros-residuos .bloque-lectura:hover{
+    transform: scale(1.01);
+    background-color: #CCC;
+    color: black;
+}
