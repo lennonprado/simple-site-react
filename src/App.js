@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
 import ReactGA from 'react-ga';
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+//import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
 
 import Menu from './components/menu/Menu';
 import Home from './components/home/Home';

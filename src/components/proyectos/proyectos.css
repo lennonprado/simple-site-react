@@ -34,3 +34,11 @@
 .display-none {
     display: none;
 }
+
+.close-modal{
+    position: absolute;
+    top:0px;
+    right: 0px;
+    z-index: 2000;
+    
+}

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+//import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 
 class Proyecto extends Component {
@@ -28,8 +28,8 @@ class Proyecto extends Component {
 
     <div className="row presentacion">
 
-        <div className="col-12 col-sm-6 col-md-8 text-center"><a href="http://extension.unicen.edu.ar/blog/wp-content/uploads/2019/08/presentacion.pdf" target="_blank" className="link-descarga">Presentación del proyecto (.pdf)</a> </div>
-        <div className="col-12 col-sm-6 col-md-4 text-center"><a href="http://extension.unicen.edu.ar/blog/wp-content/uploads/2019/08/presentacion.pdf" target="_blank" className="btn btn-success">Descargar</a></div>
+        <div className="col-12 col-sm-6 col-md-8 text-center"><a href="http://extension.unicen.edu.ar/blog/wp-content/uploads/2019/08/presentacion.pdf" target="_blank" className="link-descarga" rel="noopener noreferrer">Presentación del proyecto (.pdf)</a> </div>
+        <div className="col-12 col-sm-6 col-md-4 text-center"><a href="http://extension.unicen.edu.ar/blog/wp-content/uploads/2019/08/presentacion.pdf" target="_blank" className="btn btn-success" rel="noopener noreferrer">Descargar</a></div>
 
     </div>
 

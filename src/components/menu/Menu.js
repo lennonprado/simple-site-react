@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link, Redirect, NavLink } from "react-router-dom";
+//import { BrowserRouter as Router, Route, Link, Redirect, NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 import './Menu.css';
 

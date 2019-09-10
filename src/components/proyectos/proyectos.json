@@ -1,29 +1,92 @@
-{
-    "proyectos": [
-        {
-            "titulo": "Proyecto de Extensión para Emprendedores (PEPE)",
-            "director": "Ing. Marcos Lavandera",
-            "rol" : "Director CDEI. Docente",
-            "descripcion" : "Desde hace más de diez años, la Facultad de Ingeniería de Olavarría - UNICEN trabaja sistemáticamente fomentando la cultura emprendedora, realizando actividades abiertas a la comunidad y articuladas con otras organizaciones. El Proyecto de Extensión Para Emprendedores formaliza un grupo de trabajo interinstitucional e interdisciplinario, para la capacitación y asistencia técnica de emprendedores de la economía social de muy diversos sectores. Este proyecto es orientador y motivador de acciones metodológicas para generar un clima de emprendimiento y colaborar con emprendedores en el intercambio de saberes. La continuidad ininterrumpida del PEPE ha facilitado la instalación y consideración del mismo dentro de la comunidad de emprendedores. Año tras año nuevas personas y organizaciones ven en el PEPE un aliado para la concreción de nuevas ideas, dando la oportunidad de sumar nuevas líneas de acción que, además de aumentar y fortalecer la red interinstitucional, permite la incorporación de más estudiantes interesados en las líneas de trabajo para el apoyo a emprendedores. Este año se integran, la Cooperativa de Cartoneros &quot;Viento en Contra&quot;, donde converge la formación emprendedora con cuestiones técnicas relacionas con el reciclado de papel y cartón. Intercambio técnico con agrupación &quot;Corazones de Barro&quot; para la fabricación de termos solares, bioconstrucción y huertas orgánicas tecnificadas. Además, actualmente, se colabora en el armado de Ecoladrillos, para lo que se disponen botellas plásticas vacías en Complejo Universitario de Olavarría, con la indicación para el armado de los mismos",
-            "imagen" : "",
-            "web": "https://www.facebook.com/Cdei.fio/",
-            "contacto": {
-                "nombre" : "Centro de Desarrollo Emprendedor e Innovación",
-                "telefono" : "02284 451055 int. 287",
-                "email" : "pepe.fio.unicen@gmail.com"
-            }
-        },
-        {
-            "titulo": "Proyecto de Extensión para Emprendedores (PEPE)",
-            "director": "Ing. Marcos Lavandera",
-            "rol" : "Director CDEI. Docente",
-            "descripcion" : "Desde hace más de diez años, la Facultad de Ingeniería de Olavarría - UNICEN trabaja sistemáticamente fomentando la cultura emprendedora, realizando actividades abiertas a la comunidad y articuladas con otras organizaciones. El Proyecto de Extensión Para Emprendedores formaliza un grupo de trabajo interinstitucional e interdisciplinario, para la capacitación y asistencia técnica de emprendedores de la economía social de muy diversos sectores. Este proyecto es orientador y motivador de acciones metodológicas para generar un clima de emprendimiento y colaborar con emprendedores en el intercambio de saberes. La continuidad ininterrumpida del PEPE ha facilitado la instalación y consideración del mismo dentro de la comunidad de emprendedores. Año tras año nuevas personas y organizaciones ven en el PEPE un aliado para la concreción de nuevas ideas, dando la oportunidad de sumar nuevas líneas de acción que, además de aumentar y fortalecer la red interinstitucional, permite la incorporación de más estudiantes interesados en las líneas de trabajo para el apoyo a emprendedores. Este año se integran, la Cooperativa de Cartoneros &quot;Viento en Contra&quot;, donde converge la formación emprendedora con cuestiones técnicas relacionas con el reciclado de papel y cartón. Intercambio técnico con agrupación &quot;Corazones de Barro&quot; para la fabricación de termos solares, bioconstrucción y huertas orgánicas tecnificadas. Además, actualmente, se colabora en el armado de Ecoladrillos, para lo que se disponen botellas plásticas vacías en Complejo Universitario de Olavarría, con la indicación para el armado de los mismos",
-            "imagen" : "",
-            "web": "https://www.facebook.com/Cdei.fio/",
-            "contacto": {
-                "nombre" : "Centro de Desarrollo Emprendedor e Innovación",
-                "telefono" : "02284 451055 int. 287",
-                "email" : "pepe.fio.unicen@gmail.com"
-            }
-        }
-]}
+[{
+		"titulo": "1 Proyecto de Extensión para Emprendedores (PEPE)",
+		"director": "Ing. Marcos Lavandera",
+		"rol": "Director CDEI. Docente",
+		"descripcion": "Desde hace más de diez años, la Facultad de Ingeniería de Olavarría - UNICEN trabaja sistemáticamente fomentando la cultura emprendedora, realizando actividades abiertas a la comunidad y articuladas con otras organizaciones. El Proyecto de Extensión Para Emprendedores formaliza un grupo de trabajo interinstitucional e interdisciplinario, para la capacitación y asistencia técnica de emprendedores de la economía social de muy diversos sectores. Este proyecto es orientador y motivador de acciones metodológicas para generar un clima de emprendimiento y colaborar con emprendedores en el intercambio de saberes. La continuidad ininterrumpida del PEPE ha facilitado la instalación y consideración del mismo dentro de la comunidad de emprendedores. Año tras año nuevas personas y organizaciones ven en el PEPE un aliado para la concreción de nuevas ideas, dando la oportunidad de sumar nuevas líneas de acción que, además de aumentar y fortalecer la red interinstitucional, permite la incorporación de más estudiantes interesados en las líneas de trabajo para el apoyo a emprendedores. Este año se integran, la Cooperativa de Cartoneros &quot;Viento en Contra&quot;, donde converge la formación emprendedora con cuestiones técnicas relacionas con el reciclado de papel y cartón. Intercambio técnico con agrupación &quot;Corazones de Barro&quot; para la fabricación de termos solares, bioconstrucción y huertas orgánicas tecnificadas. Además, actualmente, se colabora en el armado de Ecoladrillos, para lo que se disponen botellas plásticas vacías en Complejo Universitario de Olavarría, con la indicación para el armado de los mismos",
+		"imagen": "https://www.ecoembes.com/sites/default/files/styles/500___auto/public/imagenes_planeta_recicla/post_3.jpg?itok=aXHEJ4gH",
+		"web": "https://www.facebook.com/Cdei.fio/",
+		"contacto": {
+			"nombre": "Centro de Desarrollo Emprendedor e Innovación",
+			"telefono": "02284 451055 int. 287",
+			"email": "pepe.fio.unicen@gmail.com"
+		}
+	},
+	{
+		"titulo": "2 Proyecto de Extensión para Emprendedores (PEPE)",
+		"director": "Ing. Marcos Lavandera",
+		"rol": "Director CDEI. Docente",
+		"descripcion": "Desde hace más de diez años, la Facultad de Ingeniería de Olavarría - UNICEN trabaja sistemáticamente fomentando la cultura emprendedora, realizando actividades abiertas a la comunidad y articuladas con otras organizaciones. El Proyecto de Extensión Para Emprendedores formaliza un grupo de trabajo interinstitucional e interdisciplinario, para la capacitación y asistencia técnica de emprendedores de la economía social de muy diversos sectores. Este proyecto es orientador y motivador de acciones metodológicas para generar un clima de emprendimiento y colaborar con emprendedores en el intercambio de saberes. La continuidad ininterrumpida del PEPE ha facilitado la instalación y consideración del mismo dentro de la comunidad de emprendedores. Año tras año nuevas personas y organizaciones ven en el PEPE un aliado para la concreción de nuevas ideas, dando la oportunidad de sumar nuevas líneas de acción que, además de aumentar y fortalecer la red interinstitucional, permite la incorporación de más estudiantes interesados en las líneas de trabajo para el apoyo a emprendedores. Este año se integran, la Cooperativa de Cartoneros &quot;Viento en Contra&quot;, donde converge la formación emprendedora con cuestiones técnicas relacionas con el reciclado de papel y cartón. Intercambio técnico con agrupación &quot;Corazones de Barro&quot; para la fabricación de termos solares, bioconstrucción y huertas orgánicas tecnificadas. Además, actualmente, se colabora en el armado de Ecoladrillos, para lo que se disponen botellas plásticas vacías en Complejo Universitario de Olavarría, con la indicación para el armado de los mismos",
+		"imagen": "https://www.ecoembes.com/sites/default/files/styles/500___auto/public/imagenes_planeta_recicla/post_3.jpg?itok=aXHEJ4gH",
+		"web": "https://www.facebook.com/Cdei.fio/",
+		"contacto": {
+			"nombre": "Centro de Desarrollo Emprendedor e Innovación",
+			"telefono": "02284 451055 int. 287",
+			"email": "pepe.fio.unicen@gmail.com"
+		}
+	},
+	{
+		"titulo": "3 Proyecto de Extensión para Emprendedores (PEPE)",
+		"director": "Ing. Marcos Lavandera",
+		"rol": "Director CDEI. Docente",
+		"descripcion": "Desde hace más de diez años, la Facultad de Ingeniería de Olavarría - UNICEN trabaja sistemáticamente fomentando la cultura emprendedora, realizando actividades abiertas a la comunidad y articuladas con otras organizaciones. El Proyecto de Extensión Para Emprendedores formaliza un grupo de trabajo interinstitucional e interdisciplinario, para la capacitación y asistencia técnica de emprendedores de la economía social de muy diversos sectores. Este proyecto es orientador y motivador de acciones metodológicas para generar un clima de emprendimiento y colaborar con emprendedores en el intercambio de saberes. La continuidad ininterrumpida del PEPE ha facilitado la instalación y consideración del mismo dentro de la comunidad de emprendedores. Año tras año nuevas personas y organizaciones ven en el PEPE un aliado para la concreción de nuevas ideas, dando la oportunidad de sumar nuevas líneas de acción que, además de aumentar y fortalecer la red interinstitucional, permite la incorporación de más estudiantes interesados en las líneas de trabajo para el apoyo a emprendedores. Este año se integran, la Cooperativa de Cartoneros &quot;Viento en Contra&quot;, donde converge la formación emprendedora con cuestiones técnicas relacionas con el reciclado de papel y cartón. Intercambio técnico con agrupación &quot;Corazones de Barro&quot; para la fabricación de termos solares, bioconstrucción y huertas orgánicas tecnificadas. Además, actualmente, se colabora en el armado de Ecoladrillos, para lo que se disponen botellas plásticas vacías en Complejo Universitario de Olavarría, con la indicación para el armado de los mismos",
+		"imagen": "https://www.ecoembes.com/sites/default/files/styles/500___auto/public/imagenes_planeta_recicla/post_3.jpg?itok=aXHEJ4gH",
+		"web": "https://www.facebook.com/Cdei.fio/",
+		"contacto": {
+			"nombre": "Centro de Desarrollo Emprendedor e Innovación",
+			"telefono": "02284 451055 int. 287",
+			"email": "pepe.fio.unicen@gmail.com"
+		}
+	},
+	{
+		"titulo": "4 Proyecto de Extensión para Emprendedores (PEPE)",
+		"director": "Ing. Marcos Lavandera",
+		"rol": "Director CDEI. Docente",
+		"descripcion": "Desde hace más de diez años, la Facultad de Ingeniería de Olavarría - UNICEN trabaja sistemáticamente fomentando la cultura emprendedora, realizando actividades abiertas a la comunidad y articuladas con otras organizaciones. El Proyecto de Extensión Para Emprendedores formaliza un grupo de trabajo interinstitucional e interdisciplinario, para la capacitación y asistencia técnica de emprendedores de la economía social de muy diversos sectores. Este proyecto es orientador y motivador de acciones metodológicas para generar un clima de emprendimiento y colaborar con emprendedores en el intercambio de saberes. La continuidad ininterrumpida del PEPE ha facilitado la instalación y consideración del mismo dentro de la comunidad de emprendedores. Año tras año nuevas personas y organizaciones ven en el PEPE un aliado para la concreción de nuevas ideas, dando la oportunidad de sumar nuevas líneas de acción que, además de aumentar y fortalecer la red interinstitucional, permite la incorporación de más estudiantes interesados en las líneas de trabajo para el apoyo a emprendedores. Este año se integran, la Cooperativa de Cartoneros &quot;Viento en Contra&quot;, donde converge la formación emprendedora con cuestiones técnicas relacionas con el reciclado de papel y cartón. Intercambio técnico con agrupación &quot;Corazones de Barro&quot; para la fabricación de termos solares, bioconstrucción y huertas orgánicas tecnificadas. Además, actualmente, se colabora en el armado de Ecoladrillos, para lo que se disponen botellas plásticas vacías en Complejo Universitario de Olavarría, con la indicación para el armado de los mismos",
+		"imagen": "https://www.ecoembes.com/sites/default/files/styles/500___auto/public/imagenes_planeta_recicla/post_3.jpg?itok=aXHEJ4gH",
+		"web": "https://www.facebook.com/Cdei.fio/",
+		"contacto": {
+			"nombre": "Centro de Desarrollo Emprendedor e Innovación",
+			"telefono": "02284 451055 int. 287",
+			"email": "pepe.fio.unicen@gmail.com"
+		}
+	},
+	{
+		"titulo": "5 Proyecto de Extensión para Emprendedores (PEPE)",
+		"director": "Ing. Marcos Lavandera",
+		"rol": "Director CDEI. Docente",
+		"descripcion": "Desde hace más de diez años, la Facultad de Ingeniería de Olavarría - UNICEN trabaja sistemáticamente fomentando la cultura emprendedora, realizando actividades abiertas a la comunidad y articuladas con otras organizaciones. El Proyecto de Extensión Para Emprendedores formaliza un grupo de trabajo interinstitucional e interdisciplinario, para la capacitación y asistencia técnica de emprendedores de la economía social de muy diversos sectores. Este proyecto es orientador y motivador de acciones metodológicas para generar un clima de emprendimiento y colaborar con emprendedores en el intercambio de saberes. La continuidad ininterrumpida del PEPE ha facilitado la instalación y consideración del mismo dentro de la comunidad de emprendedores. Año tras año nuevas personas y organizaciones ven en el PEPE un aliado para la concreción de nuevas ideas, dando la oportunidad de sumar nuevas líneas de acción que, además de aumentar y fortalecer la red interinstitucional, permite la incorporación de más estudiantes interesados en las líneas de trabajo para el apoyo a emprendedores. Este año se integran, la Cooperativa de Cartoneros &quot;Viento en Contra&quot;, donde converge la formación emprendedora con cuestiones técnicas relacionas con el reciclado de papel y cartón. Intercambio técnico con agrupación &quot;Corazones de Barro&quot; para la fabricación de termos solares, bioconstrucción y huertas orgánicas tecnificadas. Además, actualmente, se colabora en el armado de Ecoladrillos, para lo que se disponen botellas plásticas vacías en Complejo Universitario de Olavarría, con la indicación para el armado de los mismos",
+		"imagen": "https://www.ecoembes.com/sites/default/files/styles/500___auto/public/imagenes_planeta_recicla/post_3.jpg?itok=aXHEJ4gH",
+		"web": "https://www.facebook.com/Cdei.fio/",
+		"contacto": {
+			"nombre": "Centro de Desarrollo Emprendedor e Innovación",
+			"telefono": "02284 451055 int. 287",
+			"email": "pepe.fio.unicen@gmail.com"
+		}
+	},
+	{
+		"titulo": "6 Proyecto de Extensión para Emprendedores (PEPE)",
+		"director": "Ing. Marcos Lavandera",
+		"rol": "Director CDEI. Docente",
+		"descripcion": "Desde hace más de diez años, la Facultad de Ingeniería de Olavarría - UNICEN trabaja sistemáticamente fomentando la cultura emprendedora, realizando actividades abiertas a la comunidad y articuladas con otras organizaciones. El Proyecto de Extensión Para Emprendedores formaliza un grupo de trabajo interinstitucional e interdisciplinario, para la capacitación y asistencia técnica de emprendedores de la economía social de muy diversos sectores. Este proyecto es orientador y motivador de acciones metodológicas para generar un clima de emprendimiento y colaborar con emprendedores en el intercambio de saberes. La continuidad ininterrumpida del PEPE ha facilitado la instalación y consideración del mismo dentro de la comunidad de emprendedores. Año tras año nuevas personas y organizaciones ven en el PEPE un aliado para la concreción de nuevas ideas, dando la oportunidad de sumar nuevas líneas de acción que, además de aumentar y fortalecer la red interinstitucional, permite la incorporación de más estudiantes interesados en las líneas de trabajo para el apoyo a emprendedores. Este año se integran, la Cooperativa de Cartoneros &quot;Viento en Contra&quot;, donde converge la formación emprendedora con cuestiones técnicas relacionas con el reciclado de papel y cartón. Intercambio técnico con agrupación &quot;Corazones de Barro&quot; para la fabricación de termos solares, bioconstrucción y huertas orgánicas tecnificadas. Además, actualmente, se colabora en el armado de Ecoladrillos, para lo que se disponen botellas plásticas vacías en Complejo Universitario de Olavarría, con la indicación para el armado de los mismos",
+		"imagen": "https://www.ecoembes.com/sites/default/files/styles/500___auto/public/imagenes_planeta_recicla/post_3.jpg?itok=aXHEJ4gH",
+		"web": "https://www.facebook.com/Cdei.fio/",
+		"contacto": {
+			"nombre": "Centro de Desarrollo Emprendedor e Innovación",
+			"telefono": "02284 451055 int. 287",
+			"email": "pepe.fio.unicen@gmail.com"
+		}
+	},
+	{
+		"titulo": "Proyecto de Extensión para Emprendedores (PEPE)",
+		"director": "Ing. Marcos Lavandera",
+		"rol": "Director CDEI. Docente",
+		"descripcion": "Desde hace más de diez años, la Facultad de Ingeniería de Olavarría - UNICEN trabaja sistemáticamente fomentando la cultura emprendedora, realizando actividades abiertas a la comunidad y articuladas con otras organizaciones. El Proyecto de Extensión Para Emprendedores formaliza un grupo de trabajo interinstitucional e interdisciplinario, para la capacitación y asistencia técnica de emprendedores de la economía social de muy diversos sectores. Este proyecto es orientador y motivador de acciones metodológicas para generar un clima de emprendimiento y colaborar con emprendedores en el intercambio de saberes. La continuidad ininterrumpida del PEPE ha facilitado la instalación y consideración del mismo dentro de la comunidad de emprendedores. Año tras año nuevas personas y organizaciones ven en el PEPE un aliado para la concreción de nuevas ideas, dando la oportunidad de sumar nuevas líneas de acción que, además de aumentar y fortalecer la red interinstitucional, permite la incorporación de más estudiantes interesados en las líneas de trabajo para el apoyo a emprendedores. Este año se integran, la Cooperativa de Cartoneros &quot;Viento en Contra&quot;, donde converge la formación emprendedora con cuestiones técnicas relacionas con el reciclado de papel y cartón. Intercambio técnico con agrupación &quot;Corazones de Barro&quot; para la fabricación de termos solares, bioconstrucción y huertas orgánicas tecnificadas. Además, actualmente, se colabora en el armado de Ecoladrillos, para lo que se disponen botellas plásticas vacías en Complejo Universitario de Olavarría, con la indicación para el armado de los mismos",
+		"imagen": "https://www.ecoembes.com/sites/default/files/styles/500___auto/public/imagenes_planeta_recicla/post_3.jpg?itok=aXHEJ4gH",
+		"web": "https://www.facebook.com/Cdei.fio/",
+		"contacto": {
+			"nombre": "Centro de Desarrollo Emprendedor e Innovación",
+			"telefono": "02284 451055 int. 287",
+			"email": "pepe.fio.unicen@gmail.com"
+		}
+	}
+]

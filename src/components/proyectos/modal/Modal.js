@@ -2,30 +2,30 @@ import React, { Component } from 'react';
 
 class Modal extends Component {
 
-   // state = { show: false };
+  onClose = e => {
+    this.props.onClose && this.props.onClose(e);
+  };
 
-
-  
-    onClose = e => {
-        this.props.onClose && this.props.onClose(e);
-
+  render() {
+    if (!this.props.show) {
+      return null;
+    }
+    return (
         
+         
+         
+        <div className="my-modal">
+          <div className="my-modal-body">{this.props.children}
 
-        console.log("modal",e,this.props);
+          { console.log(this.props) }
 
-      };
+                    <h2>Proyecto de Extensión para Emprendedores (PEPE)
 
+                    <button onClick={this.onClose} > Close </button>
 
+                    { this.props.children }
 
-    render() { 
-        if(!this.props.show){
-            return null;
-        }
-        return ( 
-
-            <div className="my-modal">
-                <div className="my-modal-body">
-                    <h2>Proyecto de Extensión para Emprendedores (PEPE)</h2>
+                    </h2>
                     <p><b>Director: Ing. Marcos Lavandera <br/>
                         Director CDEI. Docente</b></p>
                     <hr/>
@@ -45,16 +45,17 @@ class Modal extends Component {
                         pepe.fio.unicen@gmail.com</p>
                     </div>
 
-                    <a href=""  className="btn btn-success">Ir al sitio web</a>
+                    <a href="{{#}}"  className="btn btn-success">Ir al sitio web</a>
 
-                    <button className="btn btn-success" onClick={this.onClose()}
-          >
-            Close
-          </button>
+                    <button className="btn btn-success" onClick={this.onClose}> Close </button>
                 </div>
-            </div>
-         );
-    }
+           </div>
+
+
+    );
+  }
+
+
 }
  
 export default Modal;
